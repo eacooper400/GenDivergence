@@ -1,6 +1,7 @@
 # GenDivergence
 Pipeline Instructions, Protocols, and Scripts used in ![Genomic evidence for convergent evolution of a key trait underlying divergence in island birds](http://onlinelibrary.wiley.com/doi/10.1111/mec.14116/abstract).
-Please cite: Cooper, EA and J.A.C. Uy. (2017) *Molecular Ecology***26**(14):3760-3774.
+
+Please cite: Cooper, EA and J.A.C. Uy. (2017) *Molecular Ecology* **26**(14):3760-3774.
 
 ## Contents
 
