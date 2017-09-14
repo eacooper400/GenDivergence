@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/dadiScripts.git
+	branch = master
+	commit = 46217b05ee65e1bd956cde47ab5ce351919cff43
+	parent = 31d7ee950d5c022cb87b8fe37100a316177627f4
+	cmdver = 0.3.1
