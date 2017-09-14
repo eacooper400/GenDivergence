@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/eacooper400/snpAnalysis.git
 	branch = master
-	commit = 995fc20b2e759d64a4b18e0ce2cafcfd95abb3e1
-	parent = b21c043730dde2a248c6ac7bfe8472a456064b71
+	commit = d7ac62fcc420cc5cfceae6630da044bce7551dc3
+	parent = 30c4a155f0057d0a9bb77f2ef3c50d90fb73099e
 	cmdver = 0.3.1
