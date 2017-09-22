@@ -7,5 +7,5 @@
 	remote = https://github.com/eacooper400/dRAD_pipeline.git
 	branch = master
 	commit = 11934fbe6657fd8cb0b5cbddc09a120c85175ca3
-	parent = 6de8dc6272fa56c629d623a7e1b25f93484dea3e
+	parent = b8fd68f7f31e7d632326b995b8b0e03108bd6b49
 	cmdver = 0.3.1
