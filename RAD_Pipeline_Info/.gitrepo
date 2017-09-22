@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/RAD_Pipeline_Info.git
+	branch = master
+	commit = 11934fbe6657fd8cb0b5cbddc09a120c85175ca3
+	parent = f58979a63043b21ea2b70561b37aab030928dd74
+	cmdver = 0.3.1
